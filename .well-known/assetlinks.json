@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.siteops.app",
+    "sha256_cert_fingerprints": ["74:CB:B9:69:E0:54:95:AE:C2:1A:8D:D7:D7:F0:75:3B:5E:08:83:FC"]
+  }
+}]
